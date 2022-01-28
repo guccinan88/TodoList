@@ -1,0 +1,30 @@
+body{
+    padding:50px;
+}
+.content{
+    margin:10px 0;
+}
+.title{
+    background-color: #00B7FF;
+    padding: 10px 10px;
+    font-size: 18px;
+}
+.title2{
+    background-color: coral;
+    text-decoration: line-through;
+    padding: 10px 10px;
+    font-size: 18px;
+}
+.message{
+    background-color: cyan;
+    padding: 10px 10px;
+}
+.message2{
+    background-color: deeppink;
+    text-decoration: line-through;
+    padding: 10px 10px;
+}
+.i_btn{
+    float: right;
+    margin: 1px;
+}
